@@ -4,7 +4,5 @@
   "main": "index.js",
   "author": "Deniel Ariesta <deniel.ariesta@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "pdfkit": "^0.8.0"
-  }
+  "dependencies": {}
 }
