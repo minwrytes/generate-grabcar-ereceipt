@@ -1,0 +1,10 @@
+{
+  "name": "generate-claim",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Deniel Ariesta <deniel.ariesta@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "pdfkit": "^0.8.0"
+  }
+}
