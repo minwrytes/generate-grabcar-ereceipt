@@ -25,21 +25,21 @@ lineReader.on('line', function (orderData) {
       // replace amount
       htmlData = htmlData.replace(/RM 15/g, amount);
       // replace payment method
-      htmlData = htmlData.replace('Mastercard &nbsp;&nbsp;5670', paymentMethod);
+      htmlData = htmlData.replace('Cash', paymentMethod);
       // replace email date
-      htmlData = htmlData.replace('10 March 2017 at 10:37', emailDate);
+      htmlData = htmlData.replace('emailDate', emailDate);
       // replace orderDate
-      htmlData = htmlData.replace('2017-03-10 10:08:08', orderDate);
+      htmlData = htmlData.replace('orderDate', orderDate);
       // replace type
       htmlData = htmlData.replace('GrabCar', type);
       // replace driver's name
-      htmlData = htmlData.replace('TAN KIT SHIH', driversName);
+      htmlData = htmlData.replace('ABCName', driversName);
       // replace booking code
-      htmlData = htmlData.replace('IOS-5502561-2-476', bookingCode);
+      htmlData = htmlData.replace('BookingCodeNumber', bookingCode);
       // replace pickupLocation
-      htmlData = htmlData.replace('Jalan PJU 1a/41, Ara Damansara, 47301, Selangor ', pickupLocation);
+      htmlData = htmlData.replace('PickupLocation', pickupLocation);
       // replace dropOffLocation
-      htmlData = htmlData.replace('Menara Sunway,Jalan Lagoon Selatan, Bandar Sunway, 46150, Selangor', dropOffLocation);
+      htmlData = htmlData.replace('dropOffLocation', dropOffLocation);
 
       fs.writeFile("dir/" + emailDate + ".html", htmlData, function(err) {
         if (err)

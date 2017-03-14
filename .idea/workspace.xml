@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67da590b-c738-4904-8546-b9ecf508247c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source.csv" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/source.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grab-receipt_files/64yDxyUpghZN8W1rLWrRzch8PYi4np37qZi1yIPmAD7XCqAFne9YH6YwSj9A_uWggvSQ5D7992Np8vsaP-CsW1zo-ZBhOgcKKtoQZ9GV2D_3dtPg-0i--q5v88v9zQ=s0-d-e1-ft" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grab-receipt_files/AA40_v0ZE3EVtW_zNL1uVY17uO67QIBE9wM--ZyJ_hPodC2-KsORjQWVy21Yu5bECt8qADqNOwGHb_G2did_jOHbUQb6kpc0jMGRbL77n6gHy4xdzi7h=s0-d-e1-ft" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grab-receipt_files/EaG6efvLuYghXtWhvaQSA6uA3wwizQam0WkBCsFN7b4rTsnhzFbfRtP3SHyxeEY6bnAJYh2We1wV7oOMj2pMB0ZFPMhyUySqIRholjRXaGwgfXeV6xC6wZkGpcg=s0-d-e1-ft" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grab-receipt_files/EsTgZVjH4-dps-YiJb5E5Jf6ZwYliOzvVIkcCma7AVGIjmJ5EteXVN2krAj_oH8Pd1OnwLGN2LRppom35bIGlbpO1sq5HC3LAHje18g-PUvX4lea0KLKiXHY_e4ejz04sktj6cdri602BT61Gbl5yPgEs-8eJIj3r9E1-ls=s0-d-e1-ft" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grab-receipt_files/KNtCGe0etNX6tA16SOybvvomjU0EoDDJbhwapyhBYqy4HH7zO6w8_Vt_9UpfT9GsUS6xwC2mfMlHDAfSOdHj6F74EysNc88rAq7oYRG4BI5WrvRtzgs=s0-d-e1-ft" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grab-receipt_files/Rdp9djv86PRzSQKcXkf-jLp843PYUUcW6dezH3yl3k5e4w_biW4ffvNVSnfrsAQtpVhOs4BtIyGxJ_WtwP3HkvLyLLor2O65-RVh5UaVdgZhMggYrKX1554Zeqn_=s0-d-e1-ft" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grab-receipt_files/W5MRG8dwdj793Fudb-YjlyW1QMrJaJew1r7Kla5ibvlYhsNMr6HW2RbXJ3no8Q1j-9tcYvBVLn0P-xiAZpI6xD5pjJM2fnpUaYJfj7uVFd7RxSnhIjzqcwCnG9I=s0-d-e1-ft" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grab-receipt_files/gJYJj4NtMDuNdgEnGCZBCOvNQ1FsCGKmpb9H1TuPyEqH-TJOPAXOK2HMVO0x6t-ggKoWKExsqYjPQq7OvNoduHuwwhDCDNtiQqytI49P4SDiQCEIycEY6jzAAT9HaNBLmQVu_pBb5N7TTc4NmibELJ2DcAUxZPVVmJHPMRQ=s0-d-e1-ft" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grab-receipt_files/logonew.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grab-receipt_files/mxFU4pe2S6IWi-jzd3fagNYg4s6v2gAa7SzYkYl9Y9LcvLI0TXRXWW7tW9XqPbMQdeRT-kGhXlCWgGOOwIZOaIwxp2TxZuWKDSd3YztBiK_nimvyQxeCg-gWtGi8zw=s0-d-e1-ft" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grab-receipt.html" afterPath="$PROJECT_DIR$/grab-receipt.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.js" afterPath="$PROJECT_DIR$/index.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,21 +29,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+            <state relative-caret-position="274">
+              <caret line="31" column="39" lean-forward="true" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="grab-receipt.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="grab-receipt.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grab-receipt.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+            <state relative-caret-position="217">
+              <caret line="43" column="69" lean-forward="false" selection-start-line="43" selection-start-column="69" selection-end-line="43" selection-end-column="69" />
               <folding />
             </state>
           </provider>
@@ -46,6 +55,16 @@
     <findStrings>
       <find>data</find>
       <find>line</find>
+      <find>master</find>
+      <find>Mastercard &amp;nbsp;&amp;nbsp;5670</find>
+      <find>cash</find>
+      <find>tan</find>
+      <find>IOS-5502561-2-476</find>
+      <find>Jalan PJU 1a/41, Ara Damansara, 47301, Selangor</find>
+      <find>menaraS</find>
+      <find>10 ma</find>
+      <find>2017-03-10 10:08:08</find>
+      <find>2017-03-10 10:08:08orderDate</find>
     </findStrings>
     <replaceStrings>
       <replace>htmlData</replace>
@@ -240,12 +259,12 @@
       <option name="presentableId" value="Default" />
       <updated>1489484907538</updated>
       <workItem from="1489484909846" duration="2061000" />
-      <workItem from="1489496520365" duration="6398000" />
+      <workItem from="1489496520365" duration="6861000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8459000" />
+    <option name="totallyTimeSpent" value="8922000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1920" height="1056" extended-state="6" />
@@ -320,18 +339,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.js">
+    <entry file="file://$PROJECT_DIR$/grab-receipt.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        <state relative-caret-position="217">
+          <caret line="43" column="69" lean-forward="false" selection-start-line="43" selection-start-column="69" selection-end-line="43" selection-end-column="69" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grab-receipt.html">
+    <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        <state relative-caret-position="274">
+          <caret line="31" column="39" lean-forward="true" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
           <folding />
         </state>
       </provider>
