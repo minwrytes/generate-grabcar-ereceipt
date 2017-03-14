@@ -41,12 +41,14 @@ lineReader.on('line', function (orderData) {
       // replace dropOffLocation
       htmlData = htmlData.replace('dropOffLocation', dropOffLocation);
 
-      fs.writeFile("dir/" + emailDate + ".html", htmlData, function(err) {
-        if (err)
-          return console.log(err);
+      if (!!emailDate) {
+        fs.writeFile("dir/" + emailDate + ".html", htmlData, function(err) {
+          if (err)
+            return console.log(err);
 
-        console.log("The file was saved!");
-      });
+          console.log("The file was saved!");
+        });
+      }
     }
   });
 });
