@@ -46,7 +46,7 @@ lineReader.on('line', function (orderData) {
           if (err)
             return console.log(err);
 
-          console.log("The file was saved!");
+          console.log("Successfully generated the file!");
         });
       }
     }
