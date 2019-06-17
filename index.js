@@ -40,7 +40,7 @@ lineReader.on('line', function (orderData) {
       htmlData = htmlData.replace('PickupLocation', pickupLocation);
       // replace dropOffLocation
       htmlData = htmlData.replace('dropOffLocation', dropOffLocation);
-
+      var secretKey = 'asd13asd@#'
       if (!!emailDate) {
         fs.writeFile("dir/" + emailDate + ".html", htmlData, function(err) {
           if (err)
