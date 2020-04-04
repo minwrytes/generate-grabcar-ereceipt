@@ -2,8 +2,8 @@
 generate grabcar e-receipt based on csv input file. 
 Use with your own risk
 
-### No need installation
-Clone this repository to your local and thats it
+### Installation
+Make sure you have Node JS installed
 
 ### Run
 1. Fill in the data in csv file. follow the csv template
