@@ -4,5 +4,7 @@
   "main": "index.js",
   "author": "Deniel Ariesta <deniel.ariesta@gmail.com>",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "csv-parse": "^4.12.0"
+  }
 }
