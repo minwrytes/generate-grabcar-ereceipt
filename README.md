@@ -2,7 +2,8 @@
 This script is used to generate GrabCar E-Receipt. Use at your own risk.
 
 ### Installation
-Make sure you have Node JS installed
+1. Make sure you have Node JS installed
+2. Run `yarn install` or `npm install`
 
 ### Run
 1. Fill in the data in csv file. follow the csv template
